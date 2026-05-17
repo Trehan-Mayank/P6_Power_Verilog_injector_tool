@@ -22,7 +22,8 @@ Testing power-aware designs traditionally requires:
 
 ```bash
 # Clone repo
-git clone https://github.com/Trehan-Mayank/power-verilog.git
+Download the .zip file
+Extract it and remeber the location of it consider as <path-to>
 
 # Convert .pv file to Verilog with corruption
 # Output generates in the same directory where you run this command
